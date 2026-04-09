@@ -47,3 +47,13 @@ Online Retail Dataset (UCI Repository)
 * Pandas, NumPy
 * Matplotlib, Seaborn
 * Scikit-learn
+
+## 🚀 How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Open notebook:
+   notebooks/ecommerce_sales_prediction.ipynb
+
+3. Run all cells
